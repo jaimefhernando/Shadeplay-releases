@@ -24,8 +24,8 @@ code-signed yet. Choose **More info**, then **Run anyway**.
 
 ## Problems and ideas
 
-[Open an issue](../../issues/new) and describe what happened. In the app, Settings › About and
-updates › **Report a problem** saves a zip with the log, your settings (without passwords or keys)
+[Open an issue](../../issues/new) and describe what happened. In the app, click the version box at the
+bottom of the sidebar to open About, where **Report a problem** saves a zip with the log, your settings (without passwords or keys)
 and a list of your monitors that you can attach.
 
 ## Privacy
