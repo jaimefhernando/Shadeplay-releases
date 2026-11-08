@@ -1,8 +1,10 @@
-﻿# Shadeplay
+# Shadeplay
 
 ![Shadeplay](shadeplay-banner.png)
 
 **Your game takes center stage. The rest of your setup adapts around it.**
+
+By [Cypher Systems](https://cyphersystemsapps.dev/), an independent software studio from Chihuahua, Mexico.
 
 When a game or video goes fullscreen, Shadeplay dims your other monitors so they stop pulling your
 eyes away, then fades them back when you're done. Around that it can set your RGB lighting, lower
@@ -34,4 +36,4 @@ own SteamGridDB key, to download game art by name.
 
 ---
 
-This repository holds Shadeplay's downloads and issue tracker.
+This repository holds Shadeplay's downloads and issue tracker. Shadeplay is made by [Cypher Systems](https://cyphersystemsapps.dev/) · [hello@cyphersystemsapps.com](mailto:hello@cyphersystemsapps.com).
